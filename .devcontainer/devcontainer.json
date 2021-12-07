@@ -1,0 +1,13 @@
+
+{
+	"name": "PHP & MariaDB template",
+	"dockerComposeFile": "docker-compose.yaml",
+	"service": "web",
+	"workspaceFolder": "/var/www/html",
+
+	"extensions": [
+		"bmewburn.vscode-intelephense-client"
+	],
+
+	"remoteUser": "root"
+}
